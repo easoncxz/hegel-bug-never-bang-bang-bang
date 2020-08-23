@@ -1,0 +1,17 @@
+{
+  "name": "hegel-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@hegel/cli": "0.0.45"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
